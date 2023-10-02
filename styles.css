@@ -1,0 +1,65 @@
+.center {
+    text-align: center;
+}
+
+.p {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.image {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.image-caption {
+    width: 500px; 
+    font-size: 12px; 
+    margin-left: auto; 
+    margin-right: auto
+}
+
+#center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#p {
+    text-align: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a, a:visited {
+    color: #482475;
+}
+
+a:hover {
+    color: #000000;
+}
+
+#background {
+    background-color: #e4d8f3;
+}
+
+ul {
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-left: 20px;
+}
+
+#cats {
+    height: 400px;
+}
+
+figure img {
+    height: 400px;
+}
